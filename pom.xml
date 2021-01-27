@@ -31,7 +31,7 @@
            				<muleVersion>4.3.0</muleVersion>
            				<username>jan2021</username>
             			<password>Shrinets@01</password>
-            			<applicationName>cicd-test</applicationName>
+            			<applicationName>cicd-testbyDeepak</applicationName>
             			<environment>Sandbox</environment>
             			<workerType>MICRO</workerType>
             			<objectStoreV2>true</objectStoreV2>
